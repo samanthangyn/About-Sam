@@ -1,7 +1,5 @@
 # SammyWhammy
 A surface-level introduction to who I am.
-<!DOCTYPE html>
-<html>/
-<head><title>My favorites</title></head>
+<h1>My favorites</h1>
 <body></body>
 </html>
