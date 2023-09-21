@@ -9,5 +9,6 @@ A surface-level introduction to who I am.<br />
     <li><strong>Plans for the future (realistic):</strong> What I want to accomplish this year</li>
     <li><strong>Dreams for the future (idealistic):</strong> What I would do if I was a trillionaire</li></strong></strong></ul>
 </em></p>
+  <h3>My favorites</h3>
 </body>
 </html>
