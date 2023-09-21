@@ -1,2 +1,2 @@
 # SammyWhammy
-A surface level introduction to who I am.
+A surface-level introduction to who I am.
