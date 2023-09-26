@@ -1,9 +1,12 @@
 # SammyWhammy
-<ntml>
-<head><title>Sam: About me</title></head>
+<!DOCTYPE html>
+<html>
 <body>
-  <img src="https://drive.google.com/file/d/1M-M2ndK0rQpB6ezna7UrktqKqat5xAA6/view"/>
-  <h3>by Samantha Nguyen</h3>
+<h1>About me as of 2023</h1>
+    <h3>by Samantha Nguyen</h3>
+</body>
+  <img src="https://instagram.com/p/CxhBTADrjnd/"/>
+<p></p>
   
 </body>
 </html>
