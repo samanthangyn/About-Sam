@@ -1,5 +1,5 @@
 # Colors I Would Paint my Living Room
-<h3>By: Samantha Nguyen </h3>
+<h3><span style="color:red;font-weight:700;font-size:25px">By: Samantha Nguyen </h3>
 <body><p> <span style="color:purple;font-weight:700;font-size:14px"> I've always had a plain white room, but I always go to Ikea and look at all the displays. I will be telling you about the unconventional colors I would love to paint my living room.</span></p></body> 
 <h2>Dark Green</h2>
 <img src = 
